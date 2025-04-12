@@ -1,4 +1,68 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    font-family: 'Figtree', sans-serif;
+}
+.MainDiv{
+    border-radius: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 150px;
+    background-color: hsl(0, 0%, 100%); 
+}
 
+.Picture{
+    height:150px;
+    width: 150px;
+    border-radius: 400px;
+    display: flex;
+    margin-left: 170px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+.learning{
+    background-color: hsl(47, 88%, 63%);
+    border-radius: 50px;
+    margin-right: 500px;
+    margin-left: 25px;
+
+    align-items: center;
+    .h3{
+        text-align: center;
+    }
+}
+.Date{
+    color: hsl(0, 0%, 42%);
+    margin-left: 15px;
+    
+    text-size-adjust: 10px;
+}
+.Blog-div{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.Blog-text{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 15px;
+    justify-content: center;
+    color: hsl(0, 0%, 42%);
+    font-style: italic;
+}
+.Picture-Blogger{
+    display: flex;
+    margin-bottom: 100px;
+    width: 60px;
+    height: 60px;
+}
+.Name-Blogger{
+    margin-left: 20px;
+    size-adjust: 20px;
+
+}
+.Picture-Blogger{
+    margin-left:20px;
+}
 
 
 
